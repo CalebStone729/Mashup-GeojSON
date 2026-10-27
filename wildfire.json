@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates":  [-105.28, 40.02]    
+            },
+            "properties": {
+                "type": "single",
+                "recordedDate": "2018-0207T22:45:00-08:00"
+            }
+        }
+    ]
+}
